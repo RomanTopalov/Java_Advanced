@@ -1,0 +1,8 @@
+INDEX VERSION 1.129+D:\Romario\course\Course\Java\tutorial_java\.metadata\.plugins\org.eclipse.jdt.core
+3221520881.index
+375218924.index
+1283029435.index
+190337620.index
+1536541671.index
+277708964.index
+3707875657.index

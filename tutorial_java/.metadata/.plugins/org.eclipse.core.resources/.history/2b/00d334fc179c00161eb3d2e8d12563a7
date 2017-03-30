@@ -1,0 +1,24 @@
+package some;
+
+public class Reverse {
+
+	public static void main(String[] args) {
+		
+		 int a =73;
+		 
+		 int b;
+		 int c=0;
+		 
+		 int result=0 ;
+		 
+		 b =79/10;
+		 c=73%10;
+		
+		 
+		 
+		 
+		 System.out.println(b);
+		 System.out.println(c);
+		 System.out.println(result);
+	}
+}
